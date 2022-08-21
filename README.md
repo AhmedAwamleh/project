@@ -23,3 +23,5 @@ my work was about this things as forntend
 ### 14-map the data to render an element for each article
 ### 15-add a button that takes the user to the map page that renders the city that was mentioned in the article, the button path should contain the city name as query
 
+![frontend graph](https://user-images.githubusercontent.com/67606888/185787681-32a08889-3608-4d6f-aa66-450ebd7355cf.png)
+<img width="422" alt="backend graph" src="https://user-images.githubusercontent.com/67606888/185787682-7b15975e-2251-48c5-9ae8-6bf728e3183c.png">
