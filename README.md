@@ -1,9 +1,16 @@
 # project
 
+# Overall Contributions
 
 https://trello.com/c/ztaX6iY7/19-read-articles-frontend
 https://trello.com/c/q4DUW96Z/5-use-services-frontend
 https://trello.com/c/Tzv72hYR/2-add-article-frontend
+
+# Code Contributions
+https://github.com/Backlog-Software/yallajo-frontend/tree/BlogPost
+https://github.com/Backlog-Software/yallajo-frontend/commit/a838012438ae6c264c5a2d802634dbddaf4853f1
+https://github.com/Backlog-Software/yallajo-frontend/commit/ed694ba1a69cb2bdb6818ad86dfac2901c34516c
+
 
 
 my work was about this things as forntend
@@ -27,3 +34,7 @@ my work was about this things as forntend
 
 ![frontend graph](https://user-images.githubusercontent.com/67606888/185787681-32a08889-3608-4d6f-aa66-450ebd7355cf.png)
 <img width="422" alt="backend graph" src="https://user-images.githubusercontent.com/67606888/185787682-7b15975e-2251-48c5-9ae8-6bf728e3183c.png">
+
+# Collaboration Contributions
+### it was amazing collaborate with my team throughout the coordinated meetings with team we start at 9:am 
+we help each outher in any proplem and work togther as a team and my team leader was very helpful and know how to deal with us 
