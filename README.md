@@ -36,5 +36,4 @@ my work was about this things as forntend
 <img width="422" alt="backend graph" src="https://user-images.githubusercontent.com/67606888/185787682-7b15975e-2251-48c5-9ae8-6bf728e3183c.png">
 
 # Collaboration Contributions
-### it was amazing collaborate with my team throughout the coordinated meetings with team we start at 9:am 
-we help each outher in any proplem and work togther as a team and my team leader was very helpful and know how to deal with us 
+### it was amazing collaborate with my team throughout the coordinated meetings with team we start at 9:am we help each outher in any proplem and work togther as a team and my team leader was very helpful and know how to deal with us 
