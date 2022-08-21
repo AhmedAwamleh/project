@@ -7,7 +7,7 @@ https://trello.com/c/Tzv72hYR/2-add-article-frontend
 my work was about this things as forntend
 
  my work was about frontend and some backend first thing 
-### add article about the city
+# add article about the city
 2-create a component to collect  user input form with a submit button that takes data for the article
 3-write a function to handle the article addition that sends a `post` request with the data as body to `(/blog)`
 4-see services around the area so that i can better plant for my trip (car rental, airBnB, Tour Guide)
